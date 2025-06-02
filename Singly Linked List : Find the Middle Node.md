@@ -60,7 +60,8 @@ To write a Python program that:
       middle = find_middle(head)
       print(middle.data if middle else None)
 ## Sample Input & Output
-![image](https://github.com/user-attachments/assets/9434a6e8-8586-497b-90ab-e778ee7deb07)
+![image](https://github.com/user-attachments/assets/c6fcbc9a-a11c-4155-8026-356be6df329b)
+
 
 ## Result
 Thus, the program that Creates a singly linked list, Uses recursion to find the middle node of the list, In case of an even number of nodes, it returns the second middle element is executed and verifies successfully.
